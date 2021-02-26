@@ -4,5 +4,6 @@ icon: fas fa-info
 order: 4
 ---
 
+## 소개
+서강대학교 재학중인 김혜린이라고합니다.
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
